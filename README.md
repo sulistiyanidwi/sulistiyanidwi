@@ -37,3 +37,9 @@
 
 <p align="left"> <a href="" target="_blank" rel="dwst"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Atlassian_Confluence_2017_logo.svg" alt="confluence.dwst" width="100" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="dwst"> <img 
 
+<p align="left"> <a href="" target="_blank" rel="dwst"> <img src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-ar21.svg" alt="cucumber.dwst" width="100" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="dwst"> <img 
+
+<p align="left"> <a href="" target="_blank" rel="dwst"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg" alt="maven.dwst" width="60" height="30"/> </a> <a href="https://git-scm.com/" target="_blank" rel="dwst"> <img 
+
+<p align="left"> <a href="" target="_blank" rel="dwst"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/JUnit_5_Banner.png" alt="junit.dwst" width="60" height="30"/> </a> <a href="https://git-scm.com/" target="_blank" rel="dwst"> <img 
+
