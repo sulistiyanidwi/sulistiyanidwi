@@ -5,6 +5,7 @@
 -->
 
 - 🔭 I’m currently working as Software Quality Assurance 
-- 🌱 I’m currently learning Automation Testing, Manual Test script, SQL, SQL DB2, java, javascript, laravel, Cucumber, Gherkin, API testing
+- 🌱 I’m currently learning Automation Testing, Manual Test script, SQL, SQL DB2, java, javascript, laravel, Cucumber, 
+      Gherkin, API testing
 
 
